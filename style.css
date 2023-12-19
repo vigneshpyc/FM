@@ -1,0 +1,98 @@
+body{
+    background: linear-gradient(196deg, #DFE4D7 21.23%, rgba(183, 186, 178, 0.00) 98.99%);
+    
+}
+.FarmerConnect{
+    color: #555843;
+    font-family: Kaushan Script;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 55px;
+    position: absolute;
+    top: 0px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: gray;
+}
+.container1 {
+    display: flex;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    color: #555843;
+    line-height: normal;
+    position: absolute;
+    top: 100px;    
+}
+img{
+    margin: 0px 0px 0px 20px;
+}
+h2{
+    color: #555843;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;   
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+.login{
+    display: flex;
+}
+.button{
+    position: absolute;
+    top: 240px;
+    width: 78px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #A7D397;
+}
+.button1{
+    position: absolute;
+    top: 240px;
+    left: 100px;
+    width: 78px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #A7D397;
+}
+#para{
+    position: absolute;
+    top: 50px;
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+.container2{
+    display: flex;
+    margin-top: 350px;
+}
+.card{
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    background: #F5EEC8;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.title{
+    margin-top: 55px;
+    color: #555843;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+    
